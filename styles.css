@@ -8,6 +8,11 @@ main {
   align-items: center;
 }
 
+#device-img {
+  display: flex;
+  justify-content: center;
+}
+
 .info {
   display: flex;
   justify-content: center;
