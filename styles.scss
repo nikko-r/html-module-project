@@ -4,6 +4,33 @@
     background-color: #fefdf8;
 }
 
+main {
+    align-items: center;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+#sign-up {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    width: 100px;
+    background-color: #394166;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
 footer {
     * div {
         width: 100%;
