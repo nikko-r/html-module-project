@@ -1,93 +1,93 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * body {
-  font-family: "Roboto";
-  background-color: #fefdf8;
+    font-family: "Roboto";
+    background-color: #fefdf8;
 }
 
 header {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 #login {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .login-button {
-  display: block;
-  width: 50px;
-  background-color: white;
-  text-align: center;
-  padding: 10px 20px;
-  border-radius: 5px;
-  border: 2px solid #394166;
-  color: #394166;
+    display: block;
+    width: 50px;
+    background-color: white;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #394166;
+    color: #394166;
 }
 
 main {
-  align-items: center;
+    align-items: center;
 }
 
 .blue-text {
-  display: flex;
-  justify-content: center;
-  color: #0eb5f0;
-  font-weight: 800;
+    display: flex;
+    justify-content: center;
+    color: #0eb5f0;
+    font-weight: 800;
 }
 
 .bold-text {
-  display: flex;
-  justify-content: center;
-  color: #394166;
-  font-weight: 1000;
+    display: flex;
+    justify-content: center;
+    color: #394166;
+    font-weight: 1000;
 }
 
 #device-img {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .info {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 #sign-up {
-  height: 10vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 #get-dadvice {
-  height: 10vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .button {
-  display: block;
-  width: 100px;
-  background-color: #394166;
-  text-align: center;
-  padding: 10px 20px;
-  border-radius: 5px;
-  color: white;
+    display: block;
+    width: 100px;
+    background-color: #394166;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
 }
 
 footer * div {
-  width: 100%;
-  height: 40px;
-  display: inline-block;
-  background-color: #fffcdd;
-  color: #394166;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 600;
+    width: 100%;
+    height: 40px;
+    display: inline-block;
+    background-color: #fffcdd;
+    color: #394166;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
 }
